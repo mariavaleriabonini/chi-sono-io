@@ -1,7 +1,6 @@
 
-# Che cosa ho da offrire?
+# ✨  Che cosa ho da offrire? ✨ 
 
-In cerca per il ruolo di: Business Consultant / Data Analyst 
 
 - Esperienza di oltre due anni con strumenti di BI: faccio magie con QlikSense e PowerBI (niente cappelli, solo dashboard).
 - Conoscenza di strumenti ETL: come cantava uno famoso, "voglio trovare un senso a questi dati, anche se questi dati, un senso non ce l'hanno" ma ce l'avranno.
