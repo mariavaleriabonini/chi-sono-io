@@ -13,3 +13,7 @@
 - **Energia**, **proattività** e **capacità di adattamento**: lo so, sono termini abusati, in parte mi servivano per sfruttare l'algoritmo di Linkedin, però sono anche veritieri.
 - **Tutto il resto di quel che c'è scritto nel mio curriculum**: non voglio rovinare la sorpresa, lo trovate sul mio profilo. oppure mi scrivete e ve lo mando. O fissiamo una call conoscitiva e ve lo racconto. è uguale, scegliete voi.
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-valeria-bonini/)
+
